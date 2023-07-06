@@ -1,1 +1,2 @@
-ey betty
+#!/bin/bash
+hy bety
