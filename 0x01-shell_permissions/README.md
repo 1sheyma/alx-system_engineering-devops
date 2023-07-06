@@ -1,1 +1,1 @@
-ey betty
+ey bety
